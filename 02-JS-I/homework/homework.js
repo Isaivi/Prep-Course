@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "Volver";
+const nuevaString = "Again";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 41;
@@ -107,6 +107,8 @@ function obtenerResto(x, y) {
   // Tu código:
   return x % y
 }
+// var Result = x % y;
+// return Result;
 
 function esPar(num) {
   // Devuelve "true" si "num" es par
